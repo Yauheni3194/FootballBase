@@ -32,7 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-### my fails ###
+### my files ###
 /data base/
+/init-db/
 
 
